@@ -10,6 +10,10 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 
 import css from "./tech/css.png";
+import excel from "./tech/microsoft-excel-icon.png";
+import aws from "./tech/aws-icon.png";
+import nextjs from "./tech/nextjs-icon.png";
+import python from "./tech/python-programming-language-icon.png";
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
@@ -34,6 +38,11 @@ import tripguide from "./tripguide.png";
 import NxtWatch from "./NxtWatch.png";
 import JobbyApp from "./jobbyapp.img.png";
 import NxtTrendz from "./nxttrendz.img.png";
+import CryptoPlace from './cryptoplace.png'
+import NikeApp from './NikeApp.png'
+import IphoneApp from './iPhone.png'
+import Metaverse from './metaverse.png'
+import StoreIt from './storeit.png'
 
 export {
   logo,
@@ -55,6 +64,10 @@ export {
   nodejs,
   reactjs,
   redux,
+  python,
+  excel,
+  aws,
+  nextjs,
   tailwind,
   typescript,
   threejs,
@@ -68,5 +81,11 @@ export {
   LinkIcon,
   NxtTrendz,
   NxtWatch,
-  JobbyApp
+  JobbyApp,
+  CryptoPlace,
+  NikeApp,
+  IphoneApp,
+  Metaverse,
+  StoreIt
+  
 };
